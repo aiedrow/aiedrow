@@ -1,8 +1,21 @@
-- 👋 Hi, I’m @aiedrow
-- 👀 I’m interested in Design, History and fun...
-- 🌱 I’m currently learning a few things that seem exciting, will keep yall posted...
-- 💞️ I’m looking to collaborate on some projects too tbh...
-- 📫 How to reach me? easy find me almost anywhere with @aiedrow...
+### 👋 Hii, I’m [Ritesh Kushwaha](https://aiedrow.co.in) 
+<sub>I am a Serial Entrepreneur, Author & Innovator. I'm from Uttar Pradesh India, and I enjoy learning new things.</sub>
+
+#
+
+#### If we were to talk about personal stuff :
+<sub>
+  
+- 👀 I’m currently Invested in AI, ML, Product Design, and Astrophysics.
+ 
+- 🌱 I’m also learning about exciting things related to History, Science & Spirituality. Fun right?
+
+- 💞️ I’m always looking to collaborate on projects as long as they are opensource.
+
+- 📫 How to reach me? easy. You may find me almost anywhere with @aiedrow.
+
+- 💬 Ask me about anything, I am happy to help;
+</sub>
 
 <!---
 aiedrow/aiedrow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
