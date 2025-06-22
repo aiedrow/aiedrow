@@ -6,18 +6,22 @@
 #
 
 #### If we were to talk about personal stuff :
-<sub>
-  
-- 👀 I’m currently Invested in AI, ML, Product Design, and Astrophysics.
- 
-- 🌱 I’m also learning about exciting things related to History, Science & Spirituality. Fun right?
+<sub> - 👀 I’m currently Invested in AI, ML, Product Design, and Astrophysics.</sub> 
+##
 
-- 💞️ I’m always looking to collaborate on projects as long as they are opensource.
+<sub>- 🌱 I’m also learning about exciting things related to History, Science & Spirituality. Fun right?</sub>
 
-- 📫 How to reach me? easy. You may find me almost anywhere with @aiedrow.
+##
 
-- 💬 Ask me about anything, I am happy to help;
-</sub>
+<sub>- 💞️ I’m always looking to collaborate on projects as long as they are opensource.</sub>
+
+##
+
+<sub>- 📫 How to reach me? easy. You may find me almost anywhere with @aiedrow.</sub>
+
+##
+
+<sub>- 💬 Ask me about anything, I am happy to help;</sub>
 
 <!---
 aiedrow/aiedrow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
